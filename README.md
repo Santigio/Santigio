@@ -8,7 +8,20 @@ Also a Google DSC Lead.
 
 Skills: HTML/CSS / JavaScript Frontend frameworks / Backend technologies / Databases and web storage / HTTP and REST...
 
-- 🔭 I’m currently working on this page. 
+- I’m currently working on Leetcodes
+
+- I’m currently learning Golang and Solidity
+
+- I’m looking to collaborate on full-stack web projects
+
+- Ask me about React, Springboot, Django, and Ionic
+
+- How to reach me santigieasankoh@gmail.com
+
+- Fun fact: I love Electronic Dance Music(EDM) :)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santigio&theme=radical)
+
 
 
 
