@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Santigie A. Sankoh
-- 👀 I’m interested in Full-Stack Development & Web 3.0
-- 🌱 I’m currently learning Nodejs 
-- 💞️ I am open to collaborate on different software projects.
-- 📫 On the side, I am a Freelancer! Checkout my portfolio --> [santigie.netlify.app](https://santigie.netlify.app/)
+### Hi there 👋, I'm Athos
+#### I am a Junior at the African Leadership University 
+![I am a Junior at the African Leadership University ](https://i.pinimg.com/originals/4c/54/ac/4c54acde486e1ef07a284d222077c06b.jpg)
+
+I’m an Engineer with years of experience creating solutions for companies. I’ve acquired experience as a software engineer working for different tech industries.
+
+Also a Google DSC Lead.
+
+Skills: HTML/CSS / JavaScript Frontend frameworks / Backend technologies / Databases and web storage / HTTP and REST...
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
