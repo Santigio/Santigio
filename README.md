@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Athos
+#### I am a junior at the African Leadership University
+![I am a junior at the African Leadership University](https://i.pinimg.com/564x/4c/54/ac/4c54acde486e1ef07a284d222077c06b.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+’m an Engineer with years of experience creating solutions for companies. I’ve acquired experience as a software engineer working for different tech industries.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Also a Google DSC Lead.
+
+Skills: HTML/CSS / JavaScript Frontend frameworks / Backend technologies / Databases and web storage / HTTP and REST...
 
 - 🔭 I’m currently working on Leetcodes 
 - 🌱 I’m currently learning  Golang and Solidity 
