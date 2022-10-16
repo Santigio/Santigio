@@ -21,6 +21,7 @@ Skills: HTML/CSS / JavaScript Frontend frameworks / Backend technologies / Datab
 - Fun fact: I love Electronic Dance Music(EDM) :)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santigio&theme=radical)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=santigio)
 
 
 
