@@ -2,7 +2,7 @@
 #### I am a junior at the African Leadership University
 ![I am a junior at the African Leadership University](https://i.pinimg.com/564x/4c/54/ac/4c54acde486e1ef07a284d222077c06b.jpg)
 
-’m an Engineer with years of experience creating solutions for companies. I’ve acquired experience as a software engineer working for different tech industries.
+I'm an Engineer with years of experience creating solutions for companies. I’ve acquired experience as a software engineer working for different tech industries.
 
 Also a Google DSC Lead.
 
