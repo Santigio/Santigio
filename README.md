@@ -18,4 +18,6 @@ Skills: Constantly learning fun and exciting technologies
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santigio&theme=radical)
 
+[![@santigio's Holopin board](https://holopin.me/santigio)](https://holopin.io/@santigio)
+
 ![Profile views](https://gpvc.arturio.dev/Santigio)  
