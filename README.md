@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Santigio
+### Hi there 👋, I'm Santigie
 #### A Junior Full-Stack Dev.
 ![Founder & Tech Entrepreneur](https://i.pinimg.com/564x/4c/54/ac/4c54acde486e1ef07a284d222077c06b.jpg)
 
