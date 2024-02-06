@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Santigie
 #### A Junior Full-Stack Dev.
-![Founder & Tech Entrepreneur](https://i.pinimg.com/564x/4c/54/ac/4c54acde486e1ef07a284d222077c06b.jpg)
+![Founder & Tech Entrepreneur](https://images.pexels.com/photos/1111320/pexels-photo-1111320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 I’ve acquired experience as a software engineer experimenting with codes. Now writing only my own dummy codes.
 
