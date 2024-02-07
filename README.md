@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Santigie
+### Hi there 👋, I'm San.
 #### I love to create.
 ![Founder & Tech Entrepreneur](https://images.pexels.com/photos/1111320/pexels-photo-1111320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
